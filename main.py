@@ -75,13 +75,16 @@ sorted_results = sorted(results, key=lambda x: x["similarity_score"], reverse=Tr
 
 # Print top N results
 N = 10
+url_base = "https://www.youtube.com/watch?v="
 for i in range(min(N, len(sorted_results))):
     print(f"Transcript from PKL: '{sorted_results[i]['transcript1'][:100]}'...")  # Displaying the first 100 characters for brevity
     print(f"File from PKL: '{sorted_results[i]['file_path1']}'")
 
-    print(f"was most similar to Transcript from JSON: '{sorted_results[i]['transcript2'][:100]}'...")
+    print(f"was most similar to Transcript from JSON: '{sorted_results[i]['transcript2'][200:300]}'...")
     print(f"was most similar to File from JSON: '{sorted_results[i]['file_path2']}'")
 
     print(f"with a similarity score of: {sorted_results[i]['similarity_score']}\n")
     print(f"with a similarity score of: {sorted_results[i]['similarity_score']}\n")
 
+    print(f"Visit the video at: {url_base + sorted_results[i]['file_path1'].split('/')[-1][:-4]}")
+    print(f"Visit the video at: {url_base + sorted_results[i]['file_path2'].split('/')[-1][:-5]}")
