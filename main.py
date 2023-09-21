@@ -84,7 +84,6 @@ for i in range(min(N, len(sorted_results))):
     print(f"was most similar to File from JSON: '{sorted_results[i]['file_path2']}'")
 
     print(f"with a similarity score of: {sorted_results[i]['similarity_score']}\n")
-    print(f"with a similarity score of: {sorted_results[i]['similarity_score']}\n")
 
-    print(f"Visit the video at: {url_base + sorted_results[i]['file_path1'].split('/')[-1][:-4]}")
-    print(f"Visit the video at: {url_base + sorted_results[i]['file_path2'].split('/')[-1][:-5]}")
+    print(f"Visit the first video at: {url_base + sorted_results[i]['file_path1'].split('/')[-1][:-4]}")
+    print(f"Visit the second video at: {url_base + sorted_results[i]['file_path2'].split('/')[-1][:-5]}")
