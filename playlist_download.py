@@ -30,5 +30,5 @@ def get_playlist(playlist_id):
 
 # Get the Maps of Meaning playlist
 # get_playlist(playlist_id='PL22J3VaeABQCn5nTAx65NRlh1EsKD0UQD')
-# Get the MIT OpenCourseWare playlist
+# Get the MIT OpenCourseWare playlist -> store file in playlists_json
 get_playlist(playlist_id='PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo')

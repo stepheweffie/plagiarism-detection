@@ -12,39 +12,59 @@ video = []
 stored_video = os.environ['YOUTUBE_VIDEO_ID']
 
 
-def format_to_json(transcript):
+def format_to_json(transcript, vid, course):
     formatter = JSONFormatter()
     json_formatted = formatter.format_transcript(transcript)
-    with open('transcript.json', 'w', encoding='utf-8') as json_file:
+    file = vid
+    if not os.path.exists(f'{course}/json'):
+        os.makedirs(f'{course}/json')
+    with open(f'{course}/json/{file}.json', 'w', encoding='utf-8') as json_file:
         json_file.write(json_formatted)
 
 # Make the call
 
 
+def get_from_json(plist):
+    with open(f'playlists_json/{plist}.json', 'rb') as f:
+        data = json.load(f)
+        p_videos = []
+        for i in data['items']:
+            v = i['snippet']['resourceId']['videoId']
+            p_videos.append(v)
+        f.close()
+        return p_videos
+
+
+playlist = 'mitocw'
+course = 'psych_wolfe'
+videos = get_from_json(playlist)
+
+
 class DownloadTranscriptTask(d6tflow.tasks.TaskPickle):
     language_code = 'en'
-    if video[0] == 0:
-        video_id = stored_video
+    video_id = ''
 
     def output(self):
         if self.video_id == stored_video:
             return d6tflow.targets.PickleTarget('video/stored_video_transcript.pkl')
         else:
-            video_id = 'some_video_id'
-            return d6tflow.targets.PickleTarget(f'video/{video_id}.pkl')
+            return d6tflow.targets.PickleTarget(f'{course}/{course}.pkl')
 
     def run(self):
-        if isinstance(self.video_id, list):
+        if isinstance(videos, list):
             transcripts_pkl = {}
-            for vid in self.video_id:
-                self.video_id = vid
-                transcripts_pkl[vid] = download_transcript(self.video_id, self.language_code)
+            for vid in videos:
+                video_id = vid
+                transcripts_pkl[vid] = download_transcript(video_id, self.language_code)
+                format_to_json(transcripts_pkl[vid], video_id, course)
             self.save(transcripts_pkl)
-        else:
-            transcript_pkl = download_transcript(self.video_id, self.language_code)
-            self.save(transcript_pkl)
 
-# Unpickle the data to video.json
+'''
+To handle a .pkl you'll need to read and write it. LoadDataTask handles write and read calls to/from handle_pickle(). 
+d6tflow is a wrapper for luigi, so you'll need to use luigi's .load() method to read the .pkl.
+d6tflow input and output is handy for tracking dependencies, but you can also use luigi's .requires() method to
+handle dependencies.
+'''
 
 
 class LoadDataTask(d6tflow.tasks.TaskJson):
@@ -59,10 +79,11 @@ class LoadDataTask(d6tflow.tasks.TaskJson):
             f.write(file)
             f.close()
 
-# Pickle helper function
+# Pickle helper READ function
 
 
 def handle_pickle():
+    # Manually input a pickle file to dump to video.json when prompted
     file = input('Give me a pickle to dump to video.json: ')
     with open(file, 'rb') as f:
         data = pickle.load(f)
@@ -71,6 +92,5 @@ def handle_pickle():
     return json_string
 
 
-if __name__ == "__main__":
-    flow = d6tflow.Workflow()
-    flow.run(DownloadTranscriptTask)
+flow = d6tflow.Workflow()
+flow.run(DownloadTranscriptTask)

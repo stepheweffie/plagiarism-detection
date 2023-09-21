@@ -1,0 +1,1091 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "JZo1__L43ZUkTs7an2BG0j9FkRo",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_3ETkziHo88Zu4dYwHDN3bcnrDI",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "1. The Brain: Between the Ears, Behind the Eyes (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jQdf2XgbLZo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jQdf2XgbLZo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jQdf2XgbLZo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jQdf2XgbLZo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jQdf2XgbLZo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jQdf2XgbLZo"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eb_UDJoVYxj2eP4Bsnbfqq5Chm8",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "2. Motivation and Emotion: \"Reason Alone Cannot Move Us To Do Anything\" (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/COg6Qzt1new/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/COg6Qzt1new/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/COg6Qzt1new/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/COg6Qzt1new/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/COg6Qzt1new/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "COg6Qzt1new"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pOiZbajRFGIk44fjuAIphAn0ics",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "3. Learning: The Power of Association (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yESTOkh6nQE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yESTOkh6nQE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yESTOkh6nQE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yESTOkh6nQE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yESTOkh6nQE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yESTOkh6nQE"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_ifoAlSLW5ZIkVWm2SvKnnU3tZQ",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "4. Sensing: Gathering the Information (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R6_jm8BOrjw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R6_jm8BOrjw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R6_jm8BOrjw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R6_jm8BOrjw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R6_jm8BOrjw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R6_jm8BOrjw"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Q0NBJwAfrv2F0eR9R1Yhf0jFCTg",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "5. Attending: Limiting the Information (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jnU15SkboCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jnU15SkboCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jnU15SkboCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jnU15SkboCA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jnU15SkboCA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jnU15SkboCA"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gZ_EvGMfnVz5i76frkHGwIJu1AY",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "6. Perceiving: Interpreting the Information (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IIgJWYMX6LE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IIgJWYMX6LE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IIgJWYMX6LE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IIgJWYMX6LE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IIgJWYMX6LE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IIgJWYMX6LE"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-MdJkGvZKMy2vpalUVYftM7fSUA",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "7. Memory: What Do You Remember? (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g7h0jNsXlBE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g7h0jNsXlBE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g7h0jNsXlBE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g7h0jNsXlBE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g7h0jNsXlBE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "g7h0jNsXlBE"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cBOEYkVUcXRVc_s0WBPutaqHtxg",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "8. Cognition: How Do You Think? (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-gFz4HL_uhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-gFz4HL_uhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-gFz4HL_uhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-gFz4HL_uhA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-gFz4HL_uhA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-gFz4HL_uhA"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2zwIQQJJSN6uZQ_5ltGkfYWonz4",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "9. Cognitive Development: How Do Children Think? (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/14UeTjQOx50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/14UeTjQOx50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/14UeTjQOx50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/14UeTjQOx50/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/14UeTjQOx50/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "14UeTjQOx50"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QtZLhR3Ipe7l-qjXthNKbl9oE0I",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "11. Language Development: What Do Children Say? (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4i9jRsZlqUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4i9jRsZlqUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4i9jRsZlqUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4i9jRsZlqUs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4i9jRsZlqUs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4i9jRsZlqUs"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hiHxR8d-LkueqOpgymdolZ-eNfw",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "Midterm Review (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l6zkg3Ihg0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l6zkg3Ihg0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l6zkg3Ihg0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l6zkg3Ihg0g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/l6zkg3Ihg0g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l6zkg3Ihg0g"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Q252CRCfemlQEWnRVfEaYMzyZzI",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "12. Intelligence: How Do We Know You Are Smart? (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3LXkRwfXIYA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3LXkRwfXIYA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3LXkRwfXIYA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3LXkRwfXIYA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3LXkRwfXIYA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3LXkRwfXIYA"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9Y3nIiCehO1ZocCxuYEh1L3x4FU",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "13. The Battle of the Sexes: Love and Evolution (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LzGIpm5UFCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LzGIpm5UFCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LzGIpm5UFCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LzGIpm5UFCg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LzGIpm5UFCg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LzGIpm5UFCg"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3nKUPK5YX2GUCTNP-mdTFPGsXlc",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "14. Social Exchange: Romantic Economics (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YOcLv_Ta7G0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YOcLv_Ta7G0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YOcLv_Ta7G0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YOcLv_Ta7G0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YOcLv_Ta7G0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YOcLv_Ta7G0"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "C-_WNfrbq1lvOVR0Prugfc0clPg",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "15. Attitudes and Behaviors: How Can We Be Controlled? (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KUqGpkR21aM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KUqGpkR21aM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KUqGpkR21aM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KUqGpkR21aM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KUqGpkR21aM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KUqGpkR21aM"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hBaVExsh6UzEdM3g190qbzVOOHQ",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "16. Who Are you? The Psychology of the Self (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LIRI_8hjgm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LIRI_8hjgm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LIRI_8hjgm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LIRI_8hjgm8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LIRI_8hjgm8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LIRI_8hjgm8"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hqkzoeP6oYEhh9oyaSfvQNPhBIY",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "17. From Dissociation To Repression (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x4cEMnDoBAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x4cEMnDoBAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x4cEMnDoBAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x4cEMnDoBAA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x4cEMnDoBAA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "x4cEMnDoBAA"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7iC-TbMt-NuY8LcRNbIPjAfJm5U",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "18. Freud and Fairy Tales (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5UwvH2b1j2E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5UwvH2b1j2E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5UwvH2b1j2E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5UwvH2b1j2E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5UwvH2b1j2E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5UwvH2b1j2E"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8GapSQ7dDFuh1P6_Fi-Oms8qbEs",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "19. Sleep and Dreams (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YKajORo4Gk4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YKajORo4Gk4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YKajORo4Gk4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YKajORo4Gk4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YKajORo4Gk4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YKajORo4Gk4"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "R5YCwfYtHUDuNjJ90bBT2M-seHM",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "20. Defining Mental Illness: Are Suicide Bombers Insane? (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0zijwkFuwbo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0zijwkFuwbo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0zijwkFuwbo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0zijwkFuwbo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0zijwkFuwbo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0zijwkFuwbo"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eb8y5yDjAblPulIRSjUNuIVF4vY",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "21. Causing Mental Illness: What Can Make You \"Lose\" Your Mind? (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3TnQSVytQ8A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3TnQSVytQ8A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3TnQSVytQ8A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3TnQSVytQ8A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3TnQSVytQ8A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3TnQSVytQ8A"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wlLvgIBRbj1IWP2XpbKufHVhwUg",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "22. Successful Disasters: Eating Disorders (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Eki8KqKxGQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Eki8KqKxGQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Eki8KqKxGQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Eki8KqKxGQg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Eki8KqKxGQg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Eki8KqKxGQg"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "73NStiVvnMcPsrRRm4l0FuecaV0",
+            "id": "UExVbDR1M2NOR1A2MTVZMWo5T2szc3pBSDVEeGhGalRIby4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2023-09-18T16:43:36Z",
+                "channelId": "UCEBb1b_L6zDS3xTUrIALZOw",
+                "title": "23. Successful Disasters: Date Rape (audio only)",
+                "description": "Instructor: Prof. Jeremy Wolfe\n\nView the complete course: https://ocw.mit.edu/courses/9-00-introduction-to-psychology-fall-2004/\nYouTube playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oM5OgMz4g_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oM5OgMz4g_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oM5OgMz4g_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oM5OgMz4g_M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oM5OgMz4g_M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MIT OpenCourseWare",
+                "playlistId": "PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oM5OgMz4g_M"
+                },
+                "videoOwnerChannelTitle": "MIT OpenCourseWare",
+                "videoOwnerChannelId": "UCEBb1b_L6zDS3xTUrIALZOw"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 23,
+        "resultsPerPage": 50
+    }
+}
