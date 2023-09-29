@@ -3,7 +3,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pickle
 import os
 import json
-
+import pandas as pd
 
 def load_files_from_directory(directory):
     transcripts = []
@@ -74,16 +74,28 @@ results = compare_transcripts(dir1_transcripts, dir1_paths, dir2_transcripts, di
 sorted_results = sorted(results, key=lambda x: x["similarity_score"], reverse=True)
 
 # Print top N results
-N = 10
+N = len(sorted_results)
+data = []
 url_base = "https://www.youtube.com/watch?v="
+
 for i in range(min(N, len(sorted_results))):
-    print(f"Transcript from PKL: '{sorted_results[i]['transcript1'][:100]}'...")  # Displaying the first 100 characters for brevity
-    print(f"File from PKL: '{sorted_results[i]['file_path1']}'")
+    url_video_1 = f"{url_base + sorted_results[i]['file_path1'].split('/')[-1][:-4]}"
+    url_video_2 = f"{url_base + sorted_results[i]['file_path2'].split('/')[-1][:-5]}"
+    # print(f"Transcript from PKL: '{sorted_results[i]['transcript1'][:100]}'")  # Displaying the first 100 characters for brevity
+    # print(f"File from PKL: '{sorted_results[i]['file_path1']}'")
+    # print(f"was most similar to Transcript from JSON: '{sorted_results[i]['transcript2'][200:300]}'...")
+    # print(f"was most similar to File from JSON: '{sorted_results[i]['file_path2']}'")
+    print(f"{i} ranked with a similarity score of: {sorted_results[i]['similarity_score']}")
+    print(f"Visit the first video at: {url_video_1}")
+    print(f"Visit the second video at: {url_video_2}\n")
+    # Append to the data list
+    data.append([i, sorted_results[i]['similarity_score'], url_video_1, url_video_2])
 
-    print(f"was most similar to Transcript from JSON: '{sorted_results[i]['transcript2'][200:300]}'...")
-    print(f"was most similar to File from JSON: '{sorted_results[i]['file_path2']}'")
+# Create the DataFrame
+df = pd.DataFrame(data, columns=["Rank", "Similarity Score", "URL Video 1", "URL Video 2"])
 
-    print(f"with a similarity score of: {sorted_results[i]['similarity_score']}\n")
+# Save the DataFrame to a CSV
+csv_file_path = "results.csv"
+df.to_csv(csv_file_path, index=False)
 
-    print(f"Visit the first video at: {url_base + sorted_results[i]['file_path1'].split('/')[-1][:-4]}")
-    print(f"Visit the second video at: {url_base + sorted_results[i]['file_path2'].split('/')[-1][:-5]}")
+print(f"Results saved to {csv_file_path}.")
