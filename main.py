@@ -5,6 +5,7 @@ import os
 import json
 import pandas as pd
 
+
 def load_files_from_directory(directory):
     transcripts = []
     file_paths = []
@@ -92,7 +93,7 @@ for i in range(min(N, len(sorted_results))):
     data.append([i, sorted_results[i]['similarity_score'], url_video_1, url_video_2])
 
 # Create the DataFrame
-df = pd.DataFrame(data, columns=["Rank", "Similarity Score", "URL Video 1", "URL Video 2"])
+df = pd.DataFrame(data, columns=["Rank", "Similarity Score", "Peterson URL Video 1", "Wolfe URL Video 2"])
 
 # Save the DataFrame to a CSV
 csv_file_path = "results.csv"
