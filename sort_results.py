@@ -1,6 +1,4 @@
 from pandas import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 syntactic_csv = 'syntactic_results.csv'
 
 
@@ -29,11 +27,10 @@ def sorted_syntactic(csv_file):
         group_data = top_74[top_74['Wolfe URL Video 2'] == group]
         print(f"\nTop 10% Statistics For Video: {group}\n{'-' * 40}")
         print(group_data.describe())
-
-    # top_74['Re-Rank'] = top_74['Rank'].rank(method='min')
     return group_74
 
 
-sorted_syntactic(syntactic_csv)
+if __name__ == '__main__':
+    sorted_syntactic(syntactic_csv)
 
 
