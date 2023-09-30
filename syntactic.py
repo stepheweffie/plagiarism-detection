@@ -96,7 +96,7 @@ for i in range(min(N, len(sorted_results))):
 df = pd.DataFrame(data, columns=["Rank", "Similarity Score", "Peterson URL Video 1", "Wolfe URL Video 2"])
 
 # Save the DataFrame to a CSV
-csv_file_path = "results.csv"
+csv_file_path = "syntactic_results.csv"
 df.to_csv(csv_file_path, index=False)
 
 print(f"Results saved to {csv_file_path}.")
