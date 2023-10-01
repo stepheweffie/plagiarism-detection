@@ -63,7 +63,10 @@ def syntactic_visuals():
         group_data = top_74[top_74['Wolfe URL Video 2'] == group]
         # Select only the first 10 records for this group
         first_10 = group_data.head(10)
-        sns.histplot(first_10['Similarity Score'], label=group, kde=True)
+        # Plot the histogram for this group
+        sns.histplot(first_10['Similarity Score'],
+                     label=group, kde=False, element="step", common_norm=False, alpha=0.66)
+
     plt.title("Distribution of Similarity Scores for First 10 of the 15 Videos")
     plt.xlabel("Similarity Score")
     plt.ylabel("Frequency")
