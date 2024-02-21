@@ -1,0 +1,556 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "U0eGvbD-LVMmBuhJxjXYYVNve4Y",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kWoubR6bvMnplRKboROd-Beybno",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:28:42Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 01 (Harvard Lectures)",
+                "description": "Skip Intro: 2:25. Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v3Bu7oCB8_k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v3Bu7oCB8_k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v3Bu7oCB8_k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v3Bu7oCB8_k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "v3Bu7oCB8_k"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6nOj1Xoo17PmVuh6DNXtb6XgnN0",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:29:02Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 02 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UdJBqCI4dpU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UdJBqCI4dpU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UdJBqCI4dpU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UdJBqCI4dpU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UdJBqCI4dpU"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S8gGzpSxXRpFIONd1sJMeZ6dnjE",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:29:11Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 03 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E8snndiBY80/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E8snndiBY80/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E8snndiBY80/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E8snndiBY80/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E8snndiBY80"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SKTIhxZwI3Hq0t8PJdJzjFwH5gc",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:29:26Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 04 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k2uEllI48-c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k2uEllI48-c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k2uEllI48-c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k2uEllI48-c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k2uEllI48-c"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "w2QiurQ-IE1EcHybPIMAJ71QwBs",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:29:36Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 06 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MFmgMHswH-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MFmgMHswH-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MFmgMHswH-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MFmgMHswH-M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MFmgMHswH-M"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jZTRxm7h9ZoZa0KVSZOP2d3jZAI",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:31:22Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 07 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DKJb8PUfcr8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DKJb8PUfcr8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DKJb8PUfcr8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DKJb8PUfcr8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DKJb8PUfcr8"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HBrheQB5DzDiXXsrTHNVvrfMOuo",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:31:32Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 08 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dUR0Rvf8F6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dUR0Rvf8F6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dUR0Rvf8F6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dUR0Rvf8F6U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dUR0Rvf8F6U"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3smOIch4j9aQFoub8jxmPyBzXXQ",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:31:40Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 09 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/59p7ASzfVVw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/59p7ASzfVVw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/59p7ASzfVVw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/59p7ASzfVVw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "59p7ASzfVVw"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "M6T8uXoRdXNwEE7AaYCuK8KUXMY",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:31:51Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 10 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G_5_wSDKMGg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G_5_wSDKMGg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G_5_wSDKMGg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G_5_wSDKMGg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G_5_wSDKMGg"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GGDWhQmpYiyMGyA08Euic-eXIyI",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:32:01Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 11 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1wIUXfQ9Hoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1wIUXfQ9Hoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1wIUXfQ9Hoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1wIUXfQ9Hoo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1wIUXfQ9Hoo"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HCWihHP7W_dZqpYR41MEzR8s18w",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:32:08Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 12 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6TVibdokSM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6TVibdokSM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6TVibdokSM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6TVibdokSM8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6TVibdokSM8"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5jwUBuTwqtmvxco5fI3sq3SLB7c",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:32:15Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 13 (Harvard Lectures)",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/idKO1h-AxwU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/idKO1h-AxwU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/idKO1h-AxwU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/idKO1h-AxwU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "idKO1h-AxwU"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Xs2gxjFW04VnIqWeG8ltXrhMKxs",
+            "id": "UExmby1FMEEyZUZCM3RJdDkxM09LQUltUy04X3E0N2RwYi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-11-20T16:32:27Z",
+                "channelId": "UC_fHQ7oJcuskwV8iX3158Aw",
+                "title": "Maps of Meaning 5 (Harvard Lectures) [Edited]",
+                "description": "Playlist: http://www.youtube.com/playlist?list=PL22J3VaeABQCxX-ScLugqRqPNr1q-HxLf\n\n*This lecture initially had some copyright issues. It was not available in several countries because of clips of 'Pinocchio' (1940). I have kept all of the lecture. This version removes the movie 'Pinocchio', so that it does not infringe on copyright. Full version also in the playlist, may be watched through a proxy server or a virtual private network. \n\n--- SUPPORT THIS CHANNEL ---\n\nDirect Support: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nPersonality Course: https://www.jordanbpeterson.com/personality\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WFMy8uGJLQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WFMy8uGJLQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WFMy8uGJLQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WFMy8uGJLQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Selina Gonzales",
+                "playlistId": "PLfo-E0A2eFB3tIt913OKAImS-8_q47dpb",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WFMy8uGJLQA"
+                },
+                "videoOwnerChannelTitle": "Jordan B Peterson",
+                "videoOwnerChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 13,
+        "resultsPerPage": 50
+    }
+}

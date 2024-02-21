@@ -34,7 +34,6 @@ def sorted_syntactic(csv_file):
 
 def syntactic_visuals():
     top_74, non_zero_counts = sorted_syntactic(syntactic_csv)
-    # Ensure the plots are displayed inline in the Jupyter Notebook (if that's what you're using
 
     # Set a default style
     sns.set_style("whitegrid")

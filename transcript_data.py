@@ -5,6 +5,8 @@ import os
 from dotenv import load_dotenv
 from playlist_download import download_transcript
 from youtube_transcript_api.formatters import JSONFormatter
+from youtube_transcript_api._errors import TranscriptsDisabled
+
 load_dotenv()
 # List of Video IDs
 video = []
@@ -35,28 +37,29 @@ def get_from_json(plist):
         return p_videos
 
 
-playlist = 'mitocw'
-course = 'psych_wolfe'
+playlist = 'psych_significance_biblical_stories'
+course = 'psych_significance_biblical_stories'
+
 videos = get_from_json(playlist)
 
 
 class DownloadTranscriptTask(d6tflow.tasks.TaskPickle):
     language_code = 'en'
-    video_id = ''
 
     def output(self):
-        if self.video_id == stored_video:
-            return d6tflow.targets.PickleTarget('video/stored_video_transcript.pkl')
-        else:
-            return d6tflow.targets.PickleTarget(f'{course}/{course}.pkl')
+        return d6tflow.targets.PickleTarget(f'{course}/{course}.pkl')
 
     def run(self):
         if isinstance(videos, list):
             transcripts_pkl = {}
             for vid in videos:
                 video_id = vid
-                transcripts_pkl[vid] = download_transcript(video_id, self.language_code)
-                format_to_json(transcripts_pkl[vid], video_id, course)
+                try:
+                    transcripts_pkl[vid] = download_transcript(video_id, self.language_code)
+                    format_to_json(transcripts_pkl[vid], video_id, course)
+                except TranscriptsDisabled:
+                    print(f'Transcripts are disabled for video {video_id}')
+                    pass
             self.save(transcripts_pkl)
 
 '''
@@ -94,3 +97,5 @@ def handle_pickle():
 
 flow = d6tflow.Workflow()
 flow.run(DownloadTranscriptTask)
+
+# videos = get_from_json(playlist)
